@@ -54,7 +54,7 @@ By building a responsive 404 page using HTML and CSS, i gained the following exp
 
 - **Debugging and Troubleshooting**: During the development process, I encounter challenges or bugs. Building a 404 page provided me with valuable experience in debugging and troubleshooting HTML and CSS issues, helping me develop problem-solving skills.
 
-you can have a look of my project at [404-PAGE-NOT-FOUND](https://candid-dasik-2237fe.netlify.app)
+you can have a look of my project at [This 404-NOT-FOUND-MASTER](https://candid-dasik-2237fe.netlify.app)
 
 ## Built With
 
