@@ -79,14 +79,6 @@ This 404-NOT-FOUND-MASTER site was created as a submission to a [DevChallenges](
 - [Marked - a markdown parser](https://github.com/chjj/marked) -->
 
 ## Contact
-
-<<<<<<< HEAD
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
-- site look (https://sidpd57.github.io/404-not-found-master/)
-=======
 - Discord [@Sidpd57](https://discord.com/channels/@me)
 - GitHub [@Sidpd57](https://github.com/Sidpd57)
 - Twitter [@sidpd1](https://twitter.com/sidpd1)
->>>>>>> d6257e0 (update-README.md)
