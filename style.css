@@ -34,7 +34,7 @@ body {
 }
 
 header.container {
-    margin-top: 2rem;
+    margin-top: 2em;
     font-family: 'Inconsolata', monospace;
 }
 
@@ -72,11 +72,26 @@ footer.container {
 }
 
 @media (max-width: 375px){
+    .container {
+        width: 90%;
+    }
+
     .d-flex {
         display: block;
+        margin: 5em auto 10em;
     }
     .hero__img,
     .hero__text {
         width: 100%;
     }
+
+    .section-title {
+        font-size: 2.8rem;
+    }
+
+    .hero__text p {
+        font-size: 1.125rem;
+        width: 100%;
+    }
+    
 }
