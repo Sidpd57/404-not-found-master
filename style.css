@@ -78,7 +78,7 @@ footer.container {
 
     .d-flex {
         display: block;
-        margin: 5em auto 10em;
+        margin: 5em auto 7em;
     }
     .hero__img,
     .hero__text {
@@ -93,5 +93,7 @@ footer.container {
         font-size: 1.125rem;
         width: 100%;
     }
-    
+    footer.container {
+        font-size: 1rem;
+    }
 }
